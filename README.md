@@ -1,4 +1,4 @@
-# CS356-Final-Project
+# Geographic Analysis of Traffic Flow for Google Play Store Applications
 
 In this project, we captured and studied over 30,000 unique HTTP requests sent out to servers while using the top 100 Android apps. 
 
